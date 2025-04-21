@@ -1,7 +1,7 @@
 {
   "name": "travel-blog-react",
   "version": "0.1.0",
-  "homepage": "https://okaymarta.github.io/lab3/",
+  "homepage": "https://okaymarta.github.io/travel-blog-lab3/",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",

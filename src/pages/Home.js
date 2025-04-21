@@ -15,7 +15,7 @@ function Home() {
             <p>Окрім подорожей, я багато <em>читаю</em>, вивчаю <em>програмування</em>, граю на <em>фортепіано</em> та не уявляю життя без хорошої <em>музики</em>. А ще я величезна фанатка мультсеріалу Аркейн – якщо ви теж, то нам є про що поговорити!</p>
           </div>
           <div className="blogger-photo-container">
-            <img src="images/profile-photo.jpeg" alt="Фото блогера" className="blogger-photo" />
+            <img src="/images/profile-photo.jpeg" alt="Фото блогера" />
           </div>
         </div>
       </section>
@@ -26,35 +26,35 @@ function Home() {
         <div className="future-travels-list">
           {/* Приклад елементу списку майбутніх подорожей */}
           <div className="travel-item">
-            <img src="images/NYC.jpg" alt="NYC" />
+            <img src="/images/NYC.jpg" alt="NYC" />
             <p>Нью-Йорк (США)</p>
           </div>
           <div className="travel-item">
-            <img src="images/edinburgh.jpg" alt="Edinburgh" />
+            <img src="/images/edinburgh.jpg" alt="Edinburgh" />
             <p>Единбург (Шотландія)</p>
           </div>
           <div className="travel-item">
-            <img src="images/moher.jpg" alt="The_Cliffs_of_Moher" />
+            <img src="/images/moher.jpg" alt="The_Cliffs_of_Moher" />
             <p>Кліф Могер (Ірландія)</p>
           </div>
           <div className="travel-item">
-            <img src="images/RioDeJaneiro.jpg" alt="Rio_de_Janeiro" />
+            <img src="/images/RioDeJaneiro.jpg" alt="Rio_de_Janeiro" />
             <p>Ріо-де-Жанейро (Бразилія)</p>
           </div>
           <div className="travel-item">
-            <img src="images/lofoten.jpg" alt="Lofoten" />
+            <img src="/images/lofoten.jpg" alt="Lofoten" />
             <p>Лофотенські острови (Норвегія)</p>
           </div>
           <div className="travel-item">
-            <img src="images/tokyo.jpg" alt="Tokyo" />
+            <img src="/images/tokyo.jpg" alt="Tokyo" />
             <p>Токіо (Японія)</p>
           </div>
           <div className="travel-item">
-            <img src="images/MilfordSound.jpg" alt="Milford_Sound" />
+            <img src="/images/MilfordSound.jpg" alt="Milford_Sound" />
             <p>Мілфордська затока (Нова Зеландія)</p>
           </div>
           <div className="travel-item">
-            <img src="images/florence.jpg" alt="Florence" />
+            <img src="/images/florence.jpg" alt="Florence" />
             <p>Флоренція (Італія)</p>
           </div>
         </div>
