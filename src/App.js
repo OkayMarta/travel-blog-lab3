@@ -5,10 +5,10 @@ import Publications from './pages/Publications';
 import Articles from './pages/Articles';
 import Navigation from './components/layout/Navigation';
 
-// Головний компонент додатку
+
 function App() {
   return (
-    <Router>
+    <Router basename={basename}>
       <header className="header">
           <h1><Link to="/">Мій Блог про Подорожі</Link></h1>
       </header>
